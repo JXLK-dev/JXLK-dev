@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🌟 Junior Fullstack Developer | 4 months experience 🌟
+  🌟 Junior Fullstack Developer - 4 months experience | Quality Automation Testing - 6 months 🌟
 </h3>
 
 <p align="center">
